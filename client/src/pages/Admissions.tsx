@@ -46,7 +46,7 @@ export default function Admissions() {
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-4xl lg:text-6xl font-bold mb-6">Admissions</h1>
             <p className="text-lg text-muted-foreground mb-8">
-              Join Kenya College and take the first step toward an exceptional education and a bright future.
+              Join Kenya College and take the first step toward an exceptional education and a bright future. 
             </p>
             <Button size="lg" data-testid="button-start-application">
               Start Your Application
